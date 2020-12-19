@@ -101,17 +101,17 @@
  <o:File HRef="image095.jpg"/>
  <o:File HRef="image096.jpg"/>
  <o:File HRef="image097.jpg"/>
- <o:File HRef="image098.png"/>
+ <o:File HRef="image098.jpg"/>
  <o:File HRef="image099.png"/>
- <o:File HRef="image100.jpg"/>
+ <o:File HRef="image100.png"/>
  <o:File HRef="image101.jpg"/>
  <o:File HRef="image102.jpg"/>
  <o:File HRef="image103.jpg"/>
  <o:File HRef="image104.jpg"/>
  <o:File HRef="image105.jpg"/>
- <o:File HRef="image106.png"/>
+ <o:File HRef="image106.jpg"/>
  <o:File HRef="image107.png"/>
- <o:File HRef="image108.jpg"/>
+ <o:File HRef="image108.png"/>
  <o:File HRef="image109.jpg"/>
  <o:File HRef="image110.jpg"/>
  <o:File HRef="image111.jpg"/>
@@ -131,7 +131,8 @@
  <o:File HRef="image125.jpg"/>
  <o:File HRef="image126.jpg"/>
  <o:File HRef="image127.jpg"/>
- <o:File HRef="image128.png"/>
+ <o:File HRef="image128.jpg"/>
  <o:File HRef="image129.png"/>
+ <o:File HRef="image130.png"/>
  <o:File HRef="filelist.xml"/>
 </xml>
